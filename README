@@ -1,0 +1,7 @@
+安装 python3.11.1
+https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe
+
+安装后在命令行输入
+pip install pandas openpyxl -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+pyton invigilation_v2.py
